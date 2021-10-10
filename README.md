@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dackone43
+- 👋 Hi, I’m Andreas Bergold
 - 👀 I’m interested in PythonDevelopment _ DataScience _ MachineLearning 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Machine Learning and Neural Networks
 - 💞️ I’m looking to collaborate on interesting projects where I can keep learning.
 - 📫 How to reach me ...
 
