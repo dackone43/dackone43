@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andreas Bergold
-- 👀 I’m interested in PythonDevelopment _ DataScience _ MachineLearning 
-- 🌱 I’m currently learning Machine Learning and Neural Networks
+- 👋 Hi, I’m Andreas Bergold, Python Enthusiast.
+- 👀 I’m interested in _ DataScience _ MachineLearning _ DeepLearning _ NeuralNetworks
+- 🌱 I’m currently learning Neural Networks and SQL
 - 💞️ I’m looking to collaborate on interesting projects where I can keep learning.
 - 📫 How to reach me ...
 
